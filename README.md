@@ -1,4 +1,4 @@
-## Leo William - Software Developer
+# <div align="center">Leo William - Software Developer</div>
 Passionate software developer with a strong foundation in **Java** and currently diving deep into the **MERN stack**. I am also interested in **Data Engineering** and I wish to improve my career in that field. I would like to explore the real world problems and I wanna give my best to contribute to the solution. I also aim to keep pace with advancing technologies. I would always give my best in the work I do.
 
 ## Areas of Expertise
