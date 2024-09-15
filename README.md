@@ -1,6 +1,10 @@
 # About Me:
-I am currently working on full-stack development in MERN Stack
+Hi, I'm Leo, a passionate software developer with a strong foundation in **Java** and currently diving deep into the **MERN stack**.
 
+## Areas of Expertise
+- **Java Development**: Proficient in Core Java, Spring Boot, and building scalable back-end systems.
+- **MERN Stack**: Developing full-stack applications using MongoDB, Express, React, and Node.js.
+- **Problem-Solving**: Experienced in algorithms and data structures, consistently improving on platforms like LeetCode.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/LeoWilliam001/) 
